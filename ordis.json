@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Ordis",
   "author": "heather (local training)",
-  "website": "",
+  "website": "https://github.com/HeatherFlux/ordis-wakeword",
   "model": "ordis.tflite",
   "trained_languages": [
     "en"
